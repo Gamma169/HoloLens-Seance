@@ -5,6 +5,9 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
-    path: Assets/ouija/Scenes/TestScene.unity
+  - enabled: 0
+    path: Assets/ouija/Scenes/TestScene3.unity
     guid: 62d035d1d491bfd4fb99ee938f929cf0
+  - enabled: 1
+    path: Assets/ouija/Scenes/TestScene2.unity
+    guid: 4e26c7264a6289744bb7a60fe49af1f0
