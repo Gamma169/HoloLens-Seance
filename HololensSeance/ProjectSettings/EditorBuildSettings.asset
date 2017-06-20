@@ -4,4 +4,7 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/ouija/Scenes/TestScene.unity
+    guid: 62d035d1d491bfd4fb99ee938f929cf0
