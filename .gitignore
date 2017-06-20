@@ -1,9 +1,10 @@
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/Assets/AssetStoreTools*
+/HololensSeance/[Ll]ibrary/
+/HololensSeance/[Tt]emp/
+/HololensSeance/[Oo]bj/
+/HololensSeance/[Bb]uild/
+/HololensSeance/[Bb]uilds/
+/HololensSeance/Assets/AssetStoreTools*
+/HololensSeance/Packages/
 
 # Visual Studio 2015 cache directory
 /.vs/
