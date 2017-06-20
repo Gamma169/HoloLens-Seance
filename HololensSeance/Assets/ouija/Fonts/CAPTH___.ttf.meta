@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 11a8dda3e8ece3e4797384b86f21d1ac
+timeCreated: 1497982416
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Captain Howdy
+  fontNames:
+  - Captain Howdy
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -2,10 +2,10 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-
-
-
 public class CircleObject : MonoBehaviour {
+
+	public GameObject cam;
+
 
 	// Use this for initialization
 	void Start () {
@@ -19,10 +19,13 @@ public class CircleObject : MonoBehaviour {
 
     private IEnumerator Circle() {
         float theta = 0;
-        float radius = .5f;
-        float frequency = .125f;
+        float radius = .55f;
+        float frequency = .12f;
         Vector3 originalPos = transform.position;
         while (true) {
+
+			originalPos = cam.transform.position;
+
 
             Vector3 pos = new Vector3(radius * Mathf.Sin(theta) + originalPos.x, originalPos.y, radius * Mathf.Cos(theta) + originalPos.z);
             
